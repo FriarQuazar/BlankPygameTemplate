@@ -52,14 +52,14 @@ while running:
 			elif event.key == pygame.K_o:
 				glock = glock - 1
 				print(glock)
-			elif event.key == pygame.K_q:
-				if Step1 == "0":
-					Step1 = "1"
-					print("Step1 ON")
-					running = 0
-				elif Step1 == "1":
-					Step1 = "0"
-					print("Step1 OFF")
+			##elif event.key == pygame.K_q:
+			##	if Step1 == "0":
+			##		Step1 = "1"
+			##		print("Step1 ON")
+			##		running = 0
+			##	elif Step1 == "1":
+			##		Step1 = "0"
+			##		print("Step1 OFF")
 			elif event.key == pygame.K_w:
 				if Step2 == "0":
 					Step2 = "1"
