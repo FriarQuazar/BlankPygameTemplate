@@ -1,2 +1,1 @@
-# BlankPygameTemplate
-A blank Pygame Template
+A blank Pygame template for begginers
