@@ -4,6 +4,7 @@ this is how to draw circles and lines - see below
 pygame.draw.circle(screen,(r,g,b),(x,y),(10),(0))
 pygame.draw.line(screen,(r,g,b),(startx,starty),(endx,endy),width)
 
+edit This File
 
 """
 
